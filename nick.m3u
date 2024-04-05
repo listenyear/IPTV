@@ -30,9 +30,9 @@ http://113.57.103.216:9000/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=
 #http://42.49.189.17:9008/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 group-title="央视频道",CCTV4
-#http://113.135.194.13:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.135.194.13:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV4
-http://123.154.30.59:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+#http://123.154.30.59:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV4
 #http://123.154.30.205:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 
@@ -61,9 +61,9 @@ http://222.173.134.150:8888/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 group-title="央视频道",CCTV6
 #http://123.154.30.59:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV6
-#http://123.154.30.205:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+http://123.154.30.205:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="央视频道",CCTV6
-http://123.132.234.158:8154/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#http://123.132.234.158:8154/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 group-title="央视频道",CCTV7
 #http://223.112.219.174:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
