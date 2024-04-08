@@ -1,3 +1,37 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1
+http://fxgm.fxjf.work:19901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 ,CCTV2
+http://fxgm.fxjf.work:19901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 ,CCTV3
+http://fxgm.fxjf.work:19901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 ,CCTV4
+http://fxgm.fxjf.work:19901/tsfile/live/0004_1.m3u8
+#EXTINF:-1 ,CCTV5
+http://fxgm.fxjf.work:19901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 ,CCTV6
+http://fxgm.fxjf.work:19901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 ,CCTV7
+http://fxgm.fxjf.work:19901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 ,CCTV8
+http://fxgm.fxjf.work:19901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 ,CCTV9
+http://fxgm.fxjf.work:19901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 ,CCTV10
+http://fxgm.fxjf.work:19901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 ,CCTV11
+http://fxgm.fxjf.work:19901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 ,CCTV12
+http://fxgm.fxjf.work:19901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 ,CCTV13
+http://fxgm.fxjf.work:19901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 ,CCTV14
+http://fxgm.fxjf.work:19901/tsfile/live/0014_1.m3u8
+#EXTINF:-1 ,CCTV15
+http://fxgm.fxjf.work:19901/tsfile/live/0015_1.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
