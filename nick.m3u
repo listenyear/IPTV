@@ -1,203 +1,43 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-1-高清
-http://172.16.1.254:11111/rtp/239.253.254.77:8000
-#EXTINF:-1 ,CCTV-2-高清
-http://172.16.1.254:11111/rtp/239.253.254.232:8000
-#EXTINF:-1 ,CCTV-3
-http://172.16.1.254:11111/rtp/239.253.254.4:8000
-#EXTINF:-1 ,CCTV-4
-http://172.16.1.254:11111/rtp/239.253.254.5:8000
-#EXTINF:-1 ,CCTV-5
-http://172.16.1.254:11111/rtp/239.253.254.6:8000
-#EXTINF:-1 ,CCTV-5＋-高清
-http://172.16.1.254:11111/rtp/239.253.254.80:8000
-#EXTINF:-1 ,CCTV-6
-http://172.16.1.254:11111/rtp/239.253.254.7:8000
-#EXTINF:-1 ,CCTV-7-高清
-http://172.16.1.254:11111/rtp/239.253.254.233:8000
-#EXTINF:-1 ,CCTV-8
-http://172.16.1.254:11111/rtp/239.253.254.9:8000
-#EXTINF:-1 ,CCTV-9-高清
-http://172.16.1.254:11111/rtp/239.253.254.79:8000
-#EXTINF:-1 ,CCTV-10
-http://172.16.1.254:11111/rtp/239.253.254.11:8000
-#EXTINF:-1 ,CCTV-11
-http://172.16.1.254:11111/rtp/239.253.254.12:8000
-#EXTINF:-1 ,CCTV-12-高清
-http://172.16.1.254:11111/rtp/239.253.254.235:8000
-#EXTINF:-1 ,CCTV-13
-http://172.16.1.254:11111/rtp/239.253.254.14:8000
-#EXTINF:-1 ,CCTV-14-高清
-http://172.16.1.254:11111/rtp/239.253.254.236:8000
-#EXTINF:-1 ,CCTV-15
-http://172.16.1.254:11111/rtp/239.253.254.16:8000
-#EXTINF:-1 ,CCTV-NEWS
-http://172.16.1.254:11111/rtp/239.253.254.17:8000
-#EXTINF:-1 ,QTV-1-高清
-http://172.16.1.254:11111/rtp/239.253.254.249:8000
-#EXTINF:-1 ,QTV-2-高清
-http://172.16.1.254:11111/rtp/239.253.254.250:8000
-#EXTINF:-1 ,QTV-3-高清
-http://172.16.1.254:11111/rtp/239.253.254.251:8000
-#EXTINF:-1 ,QTV-4
-http://172.16.1.254:11111/rtp/239.253.254.252:8000
-#EXTINF:-1 ,QTV-5
-http://172.16.1.254:11111/rtp/239.253.254.253:8000
-#EXTINF:-1 ,QTV-6
-http://172.16.1.254:11111/rtp/239.253.254.254:8000
-#EXTINF:-1 ,中国教育-1
-http://172.16.1.254:11111/rtp/239.253.254.55:8000
-#EXTINF:-1 ,山东卫视-高清
-http://172.16.1.254:11111/rtp/239.253.254.78:8000
-#EXTINF:-1 ,齐鲁频道-高清
-http://172.16.1.254:11111/rtp/239.253.254.114:8000
-#EXTINF:-1 ,山东综艺
-http://172.16.1.254:11111/rtp/239.253.254.21:8000
-#EXTINF:-1 ,山东体育
-http://172.16.1.254:11111/rtp/239.253.254.22:8000
-#EXTINF:-1 ,山东影视
-http://172.16.1.254:11111/rtp/239.253.254.19:8000
-#EXTINF:-1 ,山东生活
-http://172.16.1.254:11111/rtp/239.253.254.20:8000
-#EXTINF:-1 ,山东公共
-http://172.16.1.254:11111/rtp/239.253.254.23:8000
-#EXTINF:-1 ,山东少儿
-http://172.16.1.254:11111/rtp/239.253.254.25:8000
-#EXTINF:-1 ,山东农科
-http://172.16.1.254:11111/rtp/239.253.254.24:8000
-#EXTINF:-1 ,金鹰卡通
-http://172.16.1.254:11111/rtp/239.253.254.62:8000
-#EXTINF:-1 ,卡酷动画
-http://172.16.1.254:11111/rtp/239.253.254.61:8000
-#EXTINF:-1 ,炫动卡通
-http://172.16.1.254:11111/rtp/239.253.254.63:8000
-#EXTINF:-1 ,优漫卡通
-http://172.16.1.254:11111/rtp/239.253.254.64:8000
-#EXTINF:-1 ,嘉佳卡通
-http://172.16.1.254:11111/rtp/239.253.254.65:8000
-#EXTINF:-1 ,湖南卫视-高清
-http://172.16.1.254:11111/rtp/239.253.254.82:8000
-#EXTINF:-1 ,浙江卫视-高清
-http://172.16.1.254:11111/rtp/239.253.254.84:8000
-#EXTINF:-1 ,东方卫视-高清
-http://172.16.1.254:11111/rtp/239.253.254.86:8000
-#EXTINF:-1 ,江苏卫视-高清
-http://172.16.1.254:11111/rtp/239.253.254.83:8000
-#EXTINF:-1 ,北京卫视-高清
-http://172.16.1.254:11111/rtp/239.253.254.85:8000
-#EXTINF:-1 ,安徽卫视-高清
-http://172.16.1.254:11111/rtp/239.253.254.87:8000
-#EXTINF:-1 ,深圳卫视-高清
-http://172.16.1.254:11111/rtp/239.253.254.91:8000
-#EXTINF:-1 ,天津卫视-高清
-http://172.16.1.254:11111/rtp/239.253.254.89:8000
-#EXTINF:-1 ,湖北卫视-高清
-http://172.16.1.254:11111/rtp/239.253.254.88:8000
-#EXTINF:-1 ,广东卫视-高清
-http://172.16.1.254:11111/rtp/239.253.254.90:8000
-#EXTINF:-1 ,辽宁卫视-高清
-http://172.16.1.254:11111/rtp/239.253.254.92:8000
-#EXTINF:-1 ,黑龙江卫视-高清
-http://172.16.1.254:11111/rtp/239.253.254.93:8000
-#EXTINF:-1 ,金鹰纪实-高清
-http://172.16.1.254:11111/rtp/239.253.254.103:8000
-#EXTINF:-1 ,江西卫视
-http://172.16.1.254:11111/rtp/239.253.254.47:8000
-#EXTINF:-1 ,重庆卫视
-http://172.16.1.254:11111/rtp/239.253.254.38:8000
-#EXTINF:-1 ,广西卫视
-http://172.16.1.254:11111/rtp/239.253.254.40:8000
-#EXTINF:-1 ,河南卫视
-http://172.16.1.254:11111/rtp/239.253.254.44:8000
-#EXTINF:-1 ,东南卫视
-http://172.16.1.254:11111/rtp/239.253.254.41:8000
-#EXTINF:-1 ,四川卫视
-http://172.16.1.254:11111/rtp/239.253.254.50:8000
-#EXTINF:-1 ,贵州卫视
-http://172.16.1.254:11111/rtp/239.253.254.51:8000
-#EXTINF:-1 ,山西卫视
-http://172.16.1.254:11111/rtp/239.253.254.48:8000
-#EXTINF:-1 ,陕西卫视
-http://172.16.1.254:11111/rtp/239.253.254.49:8000
-#EXTINF:-1 ,旅游卫视
-http://172.16.1.254:11111/rtp/239.253.254.35:8000
-#EXTINF:-1 ,云南卫视
-http://172.16.1.254:11111/rtp/239.253.254.42:8000
-#EXTINF:-1 ,吉林卫视
-http://172.16.1.254:11111/rtp/239.253.254.46:8000
-#EXTINF:-1 ,甘肃卫视
-http://172.16.1.254:11111/rtp/239.253.254.52:8000
-#EXTINF:-1 ,宁夏卫视
-http://172.16.1.254:11111/rtp/239.253.254.53:8000
-#EXTINF:-1 ,青海卫视
-http://172.16.1.254:11111/rtp/239.253.254.54:8000
-#EXTINF:-1 ,西藏卫视
-http://172.16.1.254:11111/rtp/239.253.254.56:8000
-#EXTINF:-1 ,新疆卫视
-http://172.16.1.254:11111/rtp/239.253.254.60:8000
-#EXTINF:-1 ,内蒙古卫视
-http://172.16.1.254:11111/rtp/239.253.254.58:8000
-#EXTINF:-1 ,兵团卫视
-http://172.16.1.254:11111/rtp/239.253.254.57:8000
-#EXTINF:-1 ,农林卫视
-http://172.16.1.254:11111/rtp/239.253.254.70:8000
-#EXTINF:-1 ,三农频道
-http://172.16.1.254:11111/rtp/239.253.254.96:8000
-#EXTINF:-1 ,爱贝果
-http://172.16.1.254:11111/rtp/239.253.254.95:8000
-#EXTINF:-1 ,海看热播
-http://172.16.1.254:11111/rtp/239.253.254.94:8000
-#EXTINF:-1 ,海看演艺
-http://172.16.1.254:11111/rtp/239.253.254.101:8000
-#EXTINF:-1 ,海看健康
-http://172.16.1.254:11111/rtp/239.253.254.100:8000
-#EXTINF:-1 ,海看动漫
-http://172.16.1.254:11111/rtp/239.253.254.99:8000
-#EXTINF:-1 ,海看剧场
-http://172.16.1.254:11111/rtp/239.253.254.98:8000
-#EXTINF:-1 ,海看大片
-http://172.16.1.254:11111/rtp/239.253.254.97:8000
-#EXTINF:-1 ,QTV-党建
-http://172.16.1.254:11111/rtp/239.253.254.240:8000
-#EXTINF:-1 ,QTV-城阳
-http://172.16.1.254:11111/rtp/239.253.254.239:8000
-#EXTINF:-1 ,QTV-崂山
-http://172.16.1.254:11111/rtp/239.253.254.238:8000
-#EXTINF:-1 ,CCTV-1
-http://172.16.1.254:11111/rtp/239.253.254.1:8000
-#EXTINF:-1 ,CCTV-2
-http://172.16.1.254:11111/rtp/239.253.254.3:8000
-#EXTINF:-1 ,CCTV-7
-http://172.16.1.254:11111/rtp/239.253.254.8:8000
-#EXTINF:-1 ,CCTV-9
-http://172.16.1.254:11111/rtp/239.253.254.10:8000
-#EXTINF:-1 ,CCTV-12
-http://172.16.1.254:11111/rtp/239.253.254.13:8000
-#EXTINF:-1 ,CCTV-14
-http://172.16.1.254:11111/rtp/239.253.254.15:8000
-#EXTINF:-1 ,山东卫视
-http://172.16.1.254:11111/rtp/239.253.254.2:8000
-#EXTINF:-1 ,湖南卫视
-http://172.16.1.254:11111/rtp/239.253.254.27:8000
-#EXTINF:-1 ,浙江卫视
-http://172.16.1.254:11111/rtp/239.253.254.29:8000
-#EXTINF:-1 ,东方卫视
-http://172.16.1.254:11111/rtp/239.253.254.32:8000
-#EXTINF:-1 ,江苏卫视
-http://172.16.1.254:11111/rtp/239.253.254.28:8000
-#EXTINF:-1 ,北京卫视
-http://172.16.1.254:11111/rtp/239.253.254.31:8000
-#EXTINF:-1 ,安徽卫视
-http://172.16.1.254:11111/rtp/239.253.254.30:8000
-#EXTINF:-1 ,深圳卫视
-http://172.16.1.254:11111/rtp/239.253.254.33:8000
-#EXTINF:-1 ,天津卫视
-http://172.16.1.254:11111/rtp/239.253.254.34:8000
-#EXTINF:-1 ,湖北卫视
-http://172.16.1.254:11111/rtp/239.253.254.45:8000
-#EXTINF:-1 ,广东卫视
-http://172.16.1.254:11111/rtp/239.253.254.39:8000
-#EXTINF:-1 ,辽宁卫视
-http://172.16.1.254:11111/rtp/239.253.254.36:8000
-#EXTINF:-1 ,黑龙江卫视
-http://172.16.1.254:11111/rtp/239.253.254.37:8000
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
+https://pi.0472.org/live/cctv1.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
+https://pi.0472.org/live/cctv2.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
+https://pi.0472.org/live/cctv3.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 国际
+https://pi.0472.org/live/cctv4.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
+https://pi.0472.org/live/cctv5.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+https://pi.0472.org/live/cctv5p.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
+https://pi.0472.org/live/cctv6.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
+https://pi.0472.org/live/cctv7.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
+https://pi.0472.org/live/cctv8.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 记录
+https://pi.0472.org/live/cctv9.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10 科教
+https://pi.0472.org/live/cctv10.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
+https://pi.0472.org/live/cctv11.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
+https://pi.0472.org/live/cctv12.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
+https://pi.0472.org/live/cctv13.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
+https://pi.0472.org/live/cctv14.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
+https://pi.0472.org/live/cctv15.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+https://pi.0472.org/live/cctv16.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克4K
+https://pi.0472.org/live/cctv16-4k.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
+https://pi.0472.org/live/cctv17.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
+https://pi.0472.org/live/cctv4k.m3u8?token=240411
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视",CCTV-8K 超高清
+https://pi.0472.org/live/cctv8k.m3u8?token=240411
