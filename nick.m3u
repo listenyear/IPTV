@@ -1,8 +1,5 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV1" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV1.png",CCTV1
-https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-#EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV1" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV1.png",CCTV1
-https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+
 #EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV1" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV1.png",CCTV1
 http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv11hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV1" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV1.png",CCTV1
@@ -23,8 +20,6 @@ http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv1
 http://66.165.240.154:8080/live/jsydcctv2/hls.m3u8
 #EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV2" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV2.png",CCTV2
 http://154.yfvodcdn.com:8080/live/jsydcctv2/hls.m3u8
-#EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV2" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV2.png",CCTV2
-https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV2" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV2.png",CCTV2
 http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/cctv2hd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="﻿央视频道" tvg-name="CCTV2" tvg-logo="https://live.zhoujie218.top/taibiao/CCTV2.png",CCTV2
